@@ -14,7 +14,7 @@ The configuration file conf.txt should be located in Windows/System32.
 It has the following structure:
 
 <path_to_file_1> <path_to_process_1> xy
--------------------------------------
+-
 <path_to_file_n> <path_to_process_n> xy
 
 Two numbers - xy, which can be either 0 (enable) or 1 (disable); the number x is responsible for writing, and y for reading.
