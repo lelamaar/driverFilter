@@ -10,7 +10,7 @@ This driver can:
 - Simultaneously block the process of reading and writing, depending on the rights.
 
 # Configurating
-The configuration file conf.txt should be located in Windows/System32.
+The configuration file conf.txt should be located in C:\Windows folder.
 It has the following structure:
 
 <path_to_file_1> <path_to_process_1> xy
